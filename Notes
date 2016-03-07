@@ -1,0 +1,4 @@
+All prototype (a.k.a. model; a.k.a. template) images must be in $ARTHOME/brainwash directory.
+The images are expected to be *.nii NIFTI images of data type short (DT_TYPE=4).
+The original image must be named: <subjectID>.nii.
+The manually skull-stripped image must be named <subjectID>_manual.nii.
